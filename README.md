@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Nasta.
+## Hi there 👋 I'm Nasta.
 
-🇵🇱 I live in Warsaw, Poland.
-🤖 Used to be a journalist, but left it for writing code.
-🌱 I’m currently learning Python and game development. 
-📫 You can shoot me an email at khralovich@protonmail.com
+<p> 🇵🇱 I live in Warsaw, Poland. </p>
+<p> 🤖 Used to be a journalist, but left it for writing code. </p>
+<p> 🌱 I’m currently learning Python and game development. </p>
+<p> 📫 You can shoot me an email at khralovich@protonmail.com </p>
