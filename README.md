@@ -2,7 +2,7 @@
 
 * 🇵🇱 Born in Belarus, live in Warsaw, Poland. 
 * 🤖 Used to be a journalist, but left that sphere for writing code. 
-* 🐍 Currently learning Python and algorythms. 
+* 🐍 Currently learning Python and algorithms. 
 * 📮 You can shoot me an email at khralovich@protonmail.com 
 
 
