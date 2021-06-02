@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Nasta
 
 👩‍💻 I'm a webdev from Warsaw    
-🐱 I like well-made designs, cats and playing chess
+🐱 I like well-made designs, cats and playing chess  
 📫 Shoot me an email via khralovich@protonmail.com
 
 
