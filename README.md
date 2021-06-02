@@ -1,9 +1,8 @@
-# Hi there 👋 I'm Nasta.
+# Hi there 👋 I'm Nasta
 
-* 🇵🇱 Born in Belarus, live in Warsaw, Poland. 
-* 🤖 Used to be a journalist, but left that job for writing code. 
-* 🐍 Currently learning Python and algorithms. 
-* 📮 You can shoot me an email at khralovich@protonmail.com 
+👩‍💻 I'm a webdev from Warsaw    
+🐱 I like well-made designs, cats and playing chess
+📫 Shoot me an email via khralovich@protonmail.com
 
 
 ## My tools
