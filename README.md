@@ -1,4 +1,4 @@
-# Hi there ✨I'm Nasta
+# Hi there ✨ I'm Nasta
 
 👩‍💻 I'm a webdev from Warsaw    
 🐱 I like well-made designs, cats and playing chess  
