@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Nasta
 
-I'm a webdev from Warsaw. Like well-made designs, cats and playing chess, currently learning Python and algorithms. Shoot me an email via khralovich@protonmail.com
+I'm a webdev from Warsaw. I like well-made designs, cats and playing chess, currently learning Python and algorithms. 
+
+Shoot me an email via khralovich@protonmail.com
 
 
 ## My tools
