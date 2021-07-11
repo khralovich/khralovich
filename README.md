@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nasta
 
-I like well-made designs, chess and travelling. Currently learning Python and algorithms. 
+I like well-made designs, playing chess and travelling. Currently learning Python and algorithms. 
 
 Shoot me an email via khralovich@protonmail.com
 
