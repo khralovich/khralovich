@@ -4,6 +4,7 @@ I like well-made designs, playing chess and travelling. Currently learning Pytho
 
 Shoot me an email via khralovich@protonmail.com
 
+<img alt="Codewars" src="https://www.codewars.com/users/khralovich/badges/micro"/>
 
 ## My tools
 
