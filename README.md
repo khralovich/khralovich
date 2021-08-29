@@ -1,15 +1,11 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width=40/> I'm Nasta
+# Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width=40/> I'm Nasta
 
-I like well-made designs, playing chess and travelling. Currently learning algorithms. 
+I'm passionate about data, algorithms and beautiful designs. Born in Belarus, live in Warsaw, Poland. Mainly code in Python and Javascript, use Tableau to vizualize data and App Script to automate boring tasks. An amateur chess player, an animal lover and a casual gamer. Currently work as a reporting specialist at [Accenture](https://www.accenture.com/us-en).
 
-Shoot me an email via khralovich@protonmail.com
-
-
-
+Read my resume / shoot me an email via khralovich@protonmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&langs_count=8&layout=compact)](https://github.com/khralovich/github-readme-stats)
-
 
 
 ## ⚒️ Technologies and tools:
