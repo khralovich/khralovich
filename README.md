@@ -4,7 +4,7 @@ I like well-made designs, playing chess and travelling. Currently learning algor
 
 Shoot me an email via khralovich@protonmail.com
 
-<img alt="Codewars" src="https://www.codewars.com/users/khralovich/badges/micro"/>
+
 
 ## My tools
 
@@ -14,3 +14,7 @@ Shoot me an email via khralovich@protonmail.com
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+## My links
+
+<img alt="Codewars" src="https://www.codewars.com/users/khralovich/badges/micro"/>
