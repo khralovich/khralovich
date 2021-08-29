@@ -2,7 +2,7 @@
 
 I'm passionate about data, algorithms and beautiful designs. Born in Belarus, live in Warsaw, Poland. Mainly code in Python and Javascript, use Tableau to vizualize data and App Script to automate boring tasks. An amateur chess player, an animal lover and a casual gamer. Currently work as a reporting specialist at [Accenture](https://www.accenture.com/us-en).
 
-Read my resume / shoot me an email via khralovich@protonmail.com
+Shoot me an email via khralovich@protonmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&langs_count=8&layout=compact)](https://github.com/khralovich/github-readme-stats)
@@ -18,8 +18,8 @@ Read my resume / shoot me an email via khralovich@protonmail.com
 
 ### 🔍 Where to find me:
 
-![image](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![image](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/khralovich)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nastakhralovich/)
 
 
 
