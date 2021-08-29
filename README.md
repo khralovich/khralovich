@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width=45/> I'm Nasta
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width=40/> I'm Nasta
 
 I like well-made designs, playing chess and travelling. Currently learning algorithms. 
 
