@@ -1,6 +1,8 @@
 # Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width=35/> I'm Nasta
 
-I'm passionate about data, algorithms and beautiful designs. Born in Belarus, live in Warsaw, Poland. Mainly code in Python and Javascript, use Tableau to vizualize data and App Script to automate boring tasks. An amateur chess player, an animal lover and a casual gamer. Work as a reporting specialist at [Accenture](https://www.accenture.com/us-en).
+
+I'm passionate about data, algorithms and beautiful designs. Born in Belarus, live in Warsaw, Poland. An amateur chess player, an animal lover and a casual gamer. <!--  Mainly code in Python and Javascript, use Tableau to vizualize data and App Script to automate boring tasks.  Work as a reporting specialist at [Accenture](https://www.accenture.com/us-en).
+-->
 
 Shoot me an email via khralovich@protonmail.com
 
