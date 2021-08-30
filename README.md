@@ -1,8 +1,9 @@
 # Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width=35/> I'm Nasta
 
 
-I'm passionate about data, algorithms and beautiful designs. Born in Belarus, live in Warsaw, Poland. An amateur chess player, an animal lover and a casual gamer. <!--  Mainly code in Python and Javascript, use Tableau to vizualize data and App Script to automate repetitive tasks.  Work as a reporting specialist at [Accenture](https://www.accenture.com/us-en).
--->
+I mainly code in Python and Javascript, use Tableau to vizualize data and App Script to automate repetitive tasks.  Work as a reporting specialist at [Accenture](https://www.accenture.com/us-en).
+
+I'm passionate about data, algorithms and beautiful designs. Born in Belarus, live in Warsaw, Poland. An amateur chess player, an animal lover and a casual gamer. 
 
 Shoot me an email via khralovich@protonmail.com
 
@@ -18,6 +19,7 @@ Shoot me an email via khralovich@protonmail.com
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Git-217346?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Tableau-%2300C4CC?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
 
 <!--
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -25,7 +27,6 @@ Shoot me an email via khralovich@protonmail.com
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![image](https://img.shields.io/badge/Tableau-%2300C4CC?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
 ![image]()
 	-->
 
