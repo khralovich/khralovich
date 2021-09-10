@@ -21,7 +21,7 @@ Shoot me an email via khralovich@protonmail.com
 ![image](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=white) 
 ![image](https://img.shields.io/badge/Tableau-%2300C4CC?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00001F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/SQL-67869B?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
