@@ -8,7 +8,6 @@ I'm passionate about data, algorithms and beautiful designs. Born in Belarus, li
 Shoot me an email via khralovich@protonmail.com
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&langs_count=8&layout=compact)](https://github.com/khralovich/github-readme-stats)
 
 
 ### ⚒️ Technologies and tools:
