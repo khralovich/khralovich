@@ -7,7 +7,7 @@ I'm passionate about generative art, natural language processing and beautiful d
 
 Shoot me an email via khralovich@protonmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html)](https://github.com/khralovich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss)](https://github.com/khralovich/github-readme-stats)
 
 ### ⚒️ Technologies and tools:
 
