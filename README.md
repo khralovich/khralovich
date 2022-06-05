@@ -3,7 +3,7 @@
 
 I code in Python, R and Javascript, use Tableau to vizualize data and App Script to automate repetitive tasks.  Work as a data analyst at [Accenture](https://www.accenture.com/us-en).
 
-I'm passionate about generative art, natural language processing and beautiful designs. Born in Belarus, live in Warsaw, Poland. An amateur chess player, an animal lover and a casual gamer. 
+I'm passionate about generative art, natural language processing and beautiful designs. Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek.
 
 Shoot me an email via khralovich@protonmail.com
 
