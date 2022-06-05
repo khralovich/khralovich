@@ -1,4 +1,4 @@
-# Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width=15/> I'm Nasta
+# Hello world! I'm Nasta
 
 
 I code in Python, R and Javascript, use Tableau to vizualize data and App Script to automate repetitive tasks.  Work as a data analyst at [Accenture](https://www.accenture.com/us-en).
