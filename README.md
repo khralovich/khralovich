@@ -5,7 +5,7 @@ I code in Python, R and Javascript, use Tableau to vizualize data and Apps Scrip
 
 I'm passionate about generative art, natural language processing and beautiful designs. Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek.
 
-Shoot me an email via khralovich@protonmail.com
+Shoot me an email via nastakhralovich@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss)](https://github.com/khralovich/github-readme-stats)
 
