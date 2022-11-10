@@ -11,16 +11,6 @@ Shoot me an email via nastakhralovich@gmail.com
 
 ### ⚒️ Technologies and tools:
 
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![image](https://img.shields.io/badge/Git-217346?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/SQL-67869B?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-<!--
-![image]()
-	-->
 
 
 ### 🔍 Where to find me:
