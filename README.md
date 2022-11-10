@@ -1,7 +1,7 @@
 # Hello world! I'm Nasta
 
 
-I code in Python, R and Javascript, use Tableau to vizualize data and Apps Script to automate repetitive tasks.  Work as a data analyst at [Accenture](https://www.accenture.com/us-en).
+I code in Python, R and C#, use Tableau to vizualize data and Python to automate repetitive tasks.  Work as a Business Intelligence analyst at [Audioteka](https://audioteka.com/pl/).
 
 Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek.
 
