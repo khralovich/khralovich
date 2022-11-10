@@ -7,7 +7,7 @@ Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG
 
 Shoot me an email via nastakhralovich@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss)](https://github.com/khralovich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss,javascript)](https://github.com/khralovich/github-readme-stats)
 
 ### ⚒️ Technologies and tools:
 
