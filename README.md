@@ -1,10 +1,9 @@
 # Hello world! 👋 I'm Nasta
 
 
-I am a Business Intelligence analyst at [Audioteka](https://audioteka.com/pl/). Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek.
+I am a Business Intelligence analyst at [Audioteka](https://audioteka.com/pl/). Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek. My CV: [pdf](https://github.com/khralovich/khralovich/blob/main/cv-khralovich-web-2023.pdf)
 
 Shoot me an email via nastakhralovich@gmail.com <br>
-My CV: [pdf](https://github.com/khralovich/khralovich/blob/main/cv-khralovich-web-2023.pdf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss,javascript)](https://github.com/khralovich/github-readme-stats)
 
