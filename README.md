@@ -3,7 +3,7 @@
 
 I code in Python, R and C#, work as a Business Intelligence analyst at [Audioteka](https://audioteka.com/pl/). Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek.
 
-Shoot me an email via nastakhralovich@gmail.com
+Shoot me an email via nastakhralovich@gmail.com 
 My CV: [click](https://github.com/khralovich/khralovich/blob/main/cv-khralovich-web-2023.pdf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss,javascript)](https://github.com/khralovich/github-readme-stats)
