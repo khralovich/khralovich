@@ -1,4 +1,4 @@
-# Hello world! I'm Nasta
+# Hello world! 👋 I'm Nasta
 
 
 I code in Python, R and C#, work as a Business Intelligence analyst at [Audioteka](https://audioteka.com/pl/). Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek.
