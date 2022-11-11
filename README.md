@@ -5,7 +5,7 @@ I am a Business Intelligence analyst at [Audioteka](https://audioteka.com/pl/). 
 
 Shoot me an email via nastakhralovich@gmail.com <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss,javascript&layout=compact)](https://github.com/khralovich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss,javascript&layout=compact&theme=cobalt)](https://github.com/khralovich/github-readme-stats)
 
 ### ⚒️ Technologies and tools:
 
