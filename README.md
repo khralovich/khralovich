@@ -13,7 +13,7 @@ Shoot me an email via nastakhralovich@gmail.com <br>
 
 ### 🔍 Where to find me:
 
-[![image](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=Medium&logoColor=white)](https://www.khralovich.medium.com/)
+[![image](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=Medium&logoColor=white)](https://khralovich.medium.com/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nastakhralovich/)
 <!-- 
 [![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
