@@ -4,7 +4,7 @@
 I am a Business Intelligence analyst at [Audioteka](https://audioteka.com/pl/), a leading Polish cloud based audiobook service.
 Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek. 
 
-My CV: [pdf](https://github.com/khralovich/khralovich/blob/main/cv-khralovich-web-2023.pdf) <br>
+My CV: [pdf](https://github.com/khralovich/khralovich/blob/main/NASTA%20KHRALOVICH.pdf) <br>
 Shoot me an email via nastakhralovich@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khralovich&hide=css,html,scss,javascript&layout=compact&show_icons=true&theme=merko&bg_color=00000000)](https://github.com/khralovich/github-readme-stats)
