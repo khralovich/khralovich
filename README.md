@@ -1,8 +1,5 @@
 # Hello world! 👋 I'm Nasta
 
-
-I am Data Engineer at [ECCO](https://pl.ecco.com/pl-PL). Born in Belarus, live in Warsaw, Poland. Amateur chess player, animal lover, RPG geek. 
-
 <!-- My CV: [pdf](https://github.com/khralovich/khralovich/blob/main/cv-khralovich-web-2023.pdf) <br> -->
 Shoot me an email via nastakhralovich@gmail.com 
 
