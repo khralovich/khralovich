@@ -1,4 +1,4 @@
-# Hello world! 👋 I'm Nasta
+# Hello world! I'm Nasta
 
 <!-- My CV: [pdf](https://github.com/khralovich/khralovich/blob/main/cv-khralovich-web-2023.pdf) <br> -->
 
